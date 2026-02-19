@@ -14,9 +14,18 @@ Réponse: 27 fois
 
 # Q5: Donner 3 roles ARIA et 3 propriété ARIA
 Réponse:
+role="region": Définit la zone de question du quiz comme une région importante
+role="group": Regroupe les propositions de réponses ensemble
+role="navigation": (implicite avec `<nav>`) Identifie la barre de navigation des réseaux sociaux
+
+aria-label: Fournit un libellé accessible pour les éléments (ex: "Réseaux sociaux", "Propositions de réponses", "Facebook")
+aria-live="polite: Annonce les mises à jour dynamiques du contenu sans interrompre l'utilisateur
+aria-labelledby: Lie un élément à son libellé 
+
 
 # Q6: Ajouter le screen de votre score Lighthouse
 Screen:
+![alt text](image-1.png)
 
 # Q7: L'une des best practice de l'ARIA est "ne pas utiliser l'ARIA" pouvez nous expliquer pourquoi d'après vous ?
 Réponse:
