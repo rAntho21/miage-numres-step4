@@ -55,7 +55,7 @@ Screen:
 
 # Q15: Êtes vous capable de déterminer visuellement ce qui est un lien ou pas en appliquant chaque altérations ?
 Réponse:
-Oui totalement, maintenant que les contrastes sont mis en place, j'arriver à dissocier ce qui est un lien ou pas 
+En faite non, les liens ne sont pas visibles, tandis que les boutons interactifs oui 
 
 # Q16: Ajouter le screen de votre score Lighthouse
 Screen:
