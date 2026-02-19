@@ -233,3 +233,16 @@ button:hover {
   background: #ff6600;
   color: #ffffff;
 }
+
+a.link {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  font-weight: 600;
+}
+
+a.link:focus-visible {
+  outline: 3px solid #ffd700;
+  outline-offset: 3px;
+}
+

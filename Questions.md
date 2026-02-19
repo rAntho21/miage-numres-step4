@@ -59,6 +59,7 @@ En faite non, les liens ne sont pas visibles, tandis que les boutons interactifs
 
 # Q16: Ajouter le screen de votre score Lighthouse
 Screen:
+![alt text](image-4.png)
 
 # Q17:  Proposition 1
 Description:
