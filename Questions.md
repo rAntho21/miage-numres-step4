@@ -33,26 +33,29 @@ Réponse: Car Les sémantiques de base utilise déjà l'ARIA, l'utilisation des 
 # Q8: Ajouter le screen de votre score Lighthouse
 Screen:
 ![alt text](image-2.png)
+
 # Q9: Pourquoi le score de lighthouse n'a pas augmenté d'après vous ?
 Réponse:Car les sémantique ne sont pas considérer comme de l'accesibilité d'après l'analyse LightHouse
 
 # Q10: Quel est la valeur du rapport de contraste actuel :
-Réponse:
+Réponse: Actuellement il est de 2.38
 
 # Q11: Quel est la valeur du score AA :
-Réponse:
+Réponse: 4.5:1
 
 # Q12: Quel est la valeur du score AAA :
-Réponse:
+Réponse: 7:1
 
 # Q13: Comment pouvez vous changer la valeur du contraste de votre texte ?
-Réponse:
+Réponse: Ajouter plus de contraste, mettre des couleurs plus foncées
 
 # Q14: Ajouter le screen de votre score Lighthouse
 Screen:
+![alt text](image-3.png)
 
 # Q15: Êtes vous capable de déterminer visuellement ce qui est un lien ou pas en appliquant chaque altérations ?
 Réponse:
+Oui totalement, maintenant que les contrastes sont mis en place, j'arriver à dissocier ce qui est un lien ou pas 
 
 # Q16: Ajouter le screen de votre score Lighthouse
 Screen:
