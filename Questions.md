@@ -28,13 +28,13 @@ Screen:
 ![alt text](image-1.png)
 
 # Q7: L'une des best practice de l'ARIA est "ne pas utiliser l'ARIA" pouvez nous expliquer pourquoi d'après vous ?
-Réponse:
+Réponse: Car Les sémantiques de base utilise déjà l'ARIA, l'utilisation des nav, footer, header, sont assez explicite pour le navigateur
 
 # Q8: Ajouter le screen de votre score Lighthouse
 Screen:
-
+![alt text](image-2.png)
 # Q9: Pourquoi le score de lighthouse n'a pas augmenté d'après vous ?
-Réponse:
+Réponse:Car les sémantique ne sont pas considérer comme de l'accesibilité d'après l'analyse LightHouse
 
 # Q10: Quel est la valeur du rapport de contraste actuel :
 Réponse:

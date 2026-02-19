@@ -2,10 +2,10 @@ import { initQuizz } from './quizz.js';
 import './style.css';
 
 document.querySelector('#app').innerHTML = `
-        <div class="header" style="cursor:pointer;">
+        <header class="header" style="cursor:pointer;">
           <h1>My Quizz</h1>
           <p>Pour accéder a la page /about <a href="about/" style="text-decoration: none;">click ici</a></p>
-        </div>
+        </header>
 
         <nav class="topnav" aria-label="Réseaux sociaux">
           <a href="#" class="fa fa-facebook" aria-label="Facebook"></a>
@@ -30,9 +30,9 @@ document.querySelector('#app').innerHTML = `
           <a href="#" class="fa fa-rss" aria-label="Flux RSS"></a>
         </nav>
 
-        <div class="row">
-          <div class="leftcolumn">
-            <div class="card">
+        <main class="row">
+          <section class="leftcolumn">
+            <article class="card">
               <h2>Nom étudiant</h2>
               <p>description</p>
               <section id="quiz" aria-label="Quiz interactif">
@@ -40,14 +40,15 @@ document.querySelector('#app').innerHTML = `
                 <div id="question" role="region" aria-live="polite" aria-label="Question du quiz"></div>
                 <div id="proposals" role="group" aria-label="Propositions de réponses"></div>
               </section>
-            </div>
-          </div>
-          <div class="rightcolumn">
-            <div class="card">
+            </article>
+          </section>
+          <aside class="rightcolumn">
+            <figure class="card">
               <img src="/question.png" alt="Illustration représentant une question" width="500" height="600">
-            </div>
-          </div>
-        </div>
+              <figcaption>Image d'illustration pour le quiz</figcaption>
+            </figure>
+          </aside>
+        </main>
 
         <footer>
           <h2>@2024</h2>
